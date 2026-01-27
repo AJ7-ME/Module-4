@@ -7,10 +7,3 @@ for num in range(low, high + 1):
         print(f"{num} is a perfect square.")
         Empty_list.append(num)
 print("Perfect squares in the given range are:", Empty_list)
-
-
-
-
-
-
-
